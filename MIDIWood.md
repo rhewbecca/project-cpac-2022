@@ -29,6 +29,8 @@ This makes it possible to recognize the different objects used. The different MI
 ## Prototype after the hackathon
 _Your project should start with a prototype that will implement only the very basic functionalities of your project, and it will serve as a "proof of concept" of your vision._
 [Please insert there a bullet point description of the basic functionalities you expect to implement for the first part]
+The dummy version that we expect to present in the first commit is characterized by a simply wood board with only one sensor that captures the vibration. Then the signal will be elaborated by a VST to distinguish the different types of object. The drawing associated with the strike is simple as the music played (only few characteristics of the signal are used to implement both). The music played is function only of the paint and it's not in real time.
 
 # Final project
 [Please insert here a bullet point description of the functionalities you expect to implement for the final presentation of the project. This description is a draft and will serve for the teacher to help you find the right dimension (i.e., number and type of functionalities) for the poroject] 
+The last version is a direct extension of the first one, more sensors are used, also to catch position of the striking point. The visualization takes count of different parameters arriving from the sensor, e.g. velocity, attack are used to draw the painting. The sonification is function of the paint, but also of direct interaction of the user (the sensor is used to draw and at the same time gives feedback on the sonification structure and make it change simultanely)
