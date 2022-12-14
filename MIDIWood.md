@@ -2,7 +2,7 @@ Creative Programming and Computing
 A. Y. 2022-2023
 Abstract of the project
 
-# [TITLE OF THE PROJECT]
+# MIDIWood
 _Title is temporary and can be changed later on. The group will be referred with the name of the group_
 
 ## Name of the group
@@ -10,13 +10,12 @@ _This will be assigned by the teachers. Do not fill this field yet_
 
 ## Members of the group 
 __only groups with 3 or 4 members are allowed. Members are required to have a Github profile__ 
-1.	[Name and Surname] [GITHUB PROFILE] 
-2.	[Name and Surname] [GITHUB PROFILE]
-3.	[Name and Surname] [GITHUB PROFILE]
-4.	[OPTIONAL] [Name and Surname] [GITHUB PROFILE]
+1.	Rebecca Superbo https://github.com/rhewbecca
+2.	Pierluigi Tartabini https://github.com/PierluT
+3.	Simone Sechi https://github.com/simosechi
 
 ## Github repository
-[Please insert your repository URL]
+https://github.com/rhewbecca/project-cpac-2022
 
 
 # Abstract
